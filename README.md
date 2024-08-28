@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Vinícius!</h1>
-<h3 align="center">sou apenas mais um dev em formação.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-m&label=Profile%20views&color=0e75b6&style=flat" alt="vs-m" /> </p>
 
