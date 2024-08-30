@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-m&label=Profile%20views&color=0e75b6&style=flat" alt="vs-m" /> </p>
 
-- Estou trabalhando atualmente no [projeto-geoloc](https://github.com/vs-m/projeto-geoloc.git)
-
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vsmoura-2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vsmoura-2703" height="30" width="40" /></a>
