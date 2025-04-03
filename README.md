@@ -36,15 +36,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vsmoura2703&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph.svg">
-</picture>
-
-###
