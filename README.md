@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/vsmoura2703">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vsmoura2703&count=1&unique=true" alt="Spotify recently played"  />
   </a>
@@ -41,6 +41,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vs-m/vs-m/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vs-m/vs-m/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
