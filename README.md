@@ -1,14 +1,46 @@
-<h1 align="center">Olá, meu nome é Vinícius!</h1>
+<p align="center">vinícius moura's github.</p>
 
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-m&label=Profile%20views&color=0e75b6&style=flat" alt="vs-m" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vs-m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vs-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Conecte-se comigo!</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vsmoura-2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vsmoura-2703" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Linguagens e Ferramentas: </h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vs-m&show_icons=true&theme=synthwave&locale=en" alt="vs-m" /></p>
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/n2YOCTE49-sAAAAC/mashi-homestuck.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/vsmoura2703">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vsmoura2703&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/vs-m/vs-m/output/snake.svg" alt="Snake animation" />
+
+###
